@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoView</string>
+    <string name="api_key"></string>
+</resources>
