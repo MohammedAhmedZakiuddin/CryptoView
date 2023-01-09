@@ -1,4 +1,4 @@
 # CryptoView Application
  
-Coverage criteria.
+# Coverage criteria - 
 This project uses graphs to derive coverage criteria. 
