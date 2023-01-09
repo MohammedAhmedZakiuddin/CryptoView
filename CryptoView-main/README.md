@@ -1,4 +1,4 @@
-# CryptoView
+# Crypto View
 
 # Project Description
 CryptoView is an application that aims to assist cryptocurrency investors in choosing wiser crypto investments. When a user logs in, CryptoView will do this by presenting a large number of cryptocurrencies on the homepage. In addition, on this page, the user will be able to favorite cryptocurrencies that they are interested in. The user will be able to swiftly see pertinent information on coins they are interested in thanks to this. Finally, CryptoView will give users
