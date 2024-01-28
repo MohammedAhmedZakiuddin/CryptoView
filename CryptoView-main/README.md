@@ -37,15 +37,6 @@ access to pertinent market news about various cryptocurrencies within the app. T
 
 6. News Screen
   - The user will access the news page by selecting the news button from the navigation bar. As soon as the page loads, all of the most recent news is presented as widgets, with only the article's title visible. The user will browse the widgets and, after selecting an article they like, click it to enlarge the widget and display the entire article. By using the search bar at the top of the page to type their desired news, users may also choose to search for a specific article.
-  
-# Credits
-- Abdulla Sakallah
-- Ahamad Natsheh
-- Biruk Kebede
-- Ivan Cuarenta
-- Mahmoud Natsheh
-- Mohammed Ahmed Zakiuddin
-- Obada Hamdan
 
 
 
